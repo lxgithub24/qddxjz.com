@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ajpdy" value="name:ArticleId;datatype:INTEGER,name:Topic;datatype:LONGCHAR,name:Content;datatype:LONGCHAR,name:PostTime;datatype:DATETIME,name:Username;datatype:LONGCHAR,name:IP;datatype:LONGCHAR,name:ViewCount;datatype:INTEGER,name:ReplyCount;datatype:INTEGER,name:LastReplyTime;datatype:DATETIME,name:LastReplyUsername;datatype:DATETIME" />
+	<infoitem key="UD_ajqt2" value="name:ArticleId;datatype:INTEGER,name:Topic;datatype:LONGCHAR,name:Content;datatype:LONGCHAR,name:PostTime;datatype:DATETIME,name:Username;datatype:LONGCHAR,name:IP;datatype:LONGCHAR,name:ViewCount;datatype:INTEGER,name:ReplyCount;datatype:INTEGER,name:LastReplyTime;datatype:DATETIME,name:LastReplyUsername;datatype:DATETIME" />
+</info>

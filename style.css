@@ -1,0 +1,50 @@
+body {
+	margin:10px;
+	font-family: System;
+	font-weight: lighter;
+	font-variant: normal;
+}
+body,th,td,input,select,textarea {
+font-size:12pt;
+}
+table th{
+background-color:#555555;
+color:#ffffff;
+}
+table td{
+padding:3px;}
+.error {
+	color: #FF0000;
+}
+.menu{
+padding-left:8px;
+padding-right:8px;
+padding-bottom:3px;
+line-height:100%;
+padding-top:4px;
+border-left:#ededed 1px solid;
+border-top:#ededed 1px solid;
+border-right:#cccccc 1px solid;
+border-bottom:#cccccc 1px solid;
+background-color: #FFD495;
+}
+a:link {
+	color: #0066FF;
+}
+a:visited {
+	color: #0066FF;
+}
+a:hover {
+	color: #0066FF;
+}
+.currentPage{
+font-weight:lighter;
+}
+.select{
+backgroud-color:#99cc00;
+color:#FFFFFF;
+}
+.hover{
+background-color:#FFcc00;
+cursor:hand;}
+
